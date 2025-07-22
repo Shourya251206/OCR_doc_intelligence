@@ -1,0 +1,8 @@
+flask
+flask-cors
+werkzeug
+python-dotenv
+azure-ai-formrecognizer
+openai
+azure.ai.documentintelligence
+faiss-cpu

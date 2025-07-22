@@ -1,0 +1,17 @@
+[project]
+name = "generlized-di-extraction-v2-sh"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "azure-ai-documentintelligence>=1.0.2",
+    "azure-ai-formrecognizer>=3.3.3",
+    "faiss-cpu>=1.11.0.post1",
+    "flask>=3.1.1",
+    "flask-cors>=6.0.1",
+    "openai>=1.97.0",
+    "python-dotenv>=1.1.1",
+    "qdrant-client>=1.14.3",
+    "werkzeug>=3.1.3",
+]
